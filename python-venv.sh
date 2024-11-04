@@ -1,7 +1,3 @@
-# /data/data/com.junea.strikers1945_2_saga
-
-#sys/xbin/bin
-
 # Author : Sahrul Gunawan ID
 # License : GNU GENERAL PUBLIC
 # GITHUB : https://github.com/SahrulGunawan-ID/python-venv
